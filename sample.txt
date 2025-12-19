@@ -1,0 +1,12 @@
+This file is for the Week 2 Assignment of File Handling Chapter
+It contains 10 lines :
+First Line
+Second Line
+Third Line
+Fourth Line
+Fifth Line
+Sixth Line
+Seventh Line
+Eighth Line
+Ninth Line
+Tenth Line
